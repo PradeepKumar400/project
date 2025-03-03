@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creats newfile
+=======
+created from newbranch
+>>>>>>> newbranch
